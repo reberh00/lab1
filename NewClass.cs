@@ -8,5 +8,9 @@ namespace lab1
 {
     internal class NewClass
     {
+        static void MojaMetoda()
+        {
+            // code to be executed
+        }
     }
 }
